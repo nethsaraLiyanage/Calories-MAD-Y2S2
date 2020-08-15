@@ -71,7 +71,6 @@
         app:layout_constraintVertical_bias="0.991"
         android:background="#fff"
         app:srcCompat="@drawable/chart" />
-
     <ImageButton
         android:id="@+id/imageButton2"
         android:layout_width="wrap_content"
