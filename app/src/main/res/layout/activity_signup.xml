@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".SignupActivity">
 
-    <ImageView
+
+ <ImageView
         android:id="@+id/imageView2"
         android:layout_width="226dp"
         android:layout_height="42dp"
@@ -232,4 +233,5 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.947"
         app:srcCompat="@drawable/linklogin" />
+  
 </androidx.constraintlayout.widget.ConstraintLayout>
