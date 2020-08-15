@@ -27,4 +27,28 @@
     <string name="gained2">for today</string>
     <string name="bmiHome">Your BMI : XXX</string>
     <string name="caloriesExpect">Expecting Calories : XXX</string>
+
+    //view profile
+    <string name="name">Name</string>
+    <string name="nameDp">David Hussy</string>
+    <string name="user_nameView">User Name</string>
+    <string name="emailDp">Davidhussy@gmail.com</string>
+    <string name="user_nameDp">David123</string>
+    <string name="my_profile">My Profile</string>
+    <string name="emailView">Email</string>
+    <string name="age">Age</string>
+    <string name="ageView">35</string>
+    <string name="heightView">182</string>
+    <string name="weightView">82</string>
+    <string name="bmiView">24.8</string>
+    <string name="statusView">Healthy</string>
+    <string name="weight">Weight</string>
+    <string name="bmi">BMI</string>
+    <string name="status">Status</string>
+
+    //edit profile
+
+
+
+    //statistics
 </resources>
