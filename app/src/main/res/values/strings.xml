@@ -1,6 +1,7 @@
 <resources>
+    <string name="app_name">Calories</string>
+
     //signup
-    <string name="app_name">MAD-Y2S2</string>
     <string name="full_name">Full Name</string>
     <string name="enter_your_full_name">Enter your full name</string>
     <string name="e_mail">E-mail</string>
@@ -12,7 +13,7 @@
     <string name="weight_kg">Weight(kg)</string>
     <string name="enter_your_weight">Enter your weight</string>
     <string name="height_cm">Height(cm)</string>
-    <string name="enter_your_height">Enetr your height</string>
+    <string name="enter_your_height">Enter your height</string>
 
     //login
     <string name="username">Username</string>
@@ -49,6 +50,6 @@
     //edit profile
 
 
-
-    //statistics
+    //statistic
+    <string name="ststs">Statistics</string>
 </resources>
