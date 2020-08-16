@@ -52,4 +52,5 @@
 
     //statistic
     <string name="stats">Statistics</string>
+    <string name="statBmiTxt">Calculate your BMI now!</string>
 </resources>
