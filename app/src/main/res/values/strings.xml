@@ -1,7 +1,6 @@
 <resources>
-    <string name="app_name">MAD-Y2S2</string>
-    
-    
+  
+    //add meal
     <string name="add_100cal_g_1">add 100cal g-1</string>
     <string name="add_gram">" !add gram"</string>
     <string name="_050">050</string>
@@ -55,4 +54,57 @@
     <string name="_100_____">100</string>
     <string name="total_calories____">TOTAL CALORIES</string>
     <string name="your_meal_is_saved">Your meal is saved</string>
+
+    //signup
+    <string name="full_name">Full Name</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="enter_your_e_mail">Enter your e-mail</string>
+    <string name="user_name">User name</string>
+    <string name="Enter_your_username">Enter your username</string>
+    <string name="Password">Password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="weight_kg">Weight(kg)</string>
+    <string name="enter_your_weight">Enter your weight</string>
+    <string name="height_cm">Height(cm)</string>
+    <string name="enter_your_height">Enter your height</string>
+
+    //login
+    <string name="username">Username</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+
+    //home
+    <string name="calories">Calories</string>
+    <string name="xxxxxx">XXXXXX</string>
+    <string name="gained1">You have gained</string>
+    <string name="gained2">for today</string>
+    <string name="bmiHome">Your BMI : XXX</string>
+    <string name="caloriesExpect">Expecting Calories : XXX</string>
+
+    //view profile
+    <string name="name">Name</string>
+    <string name="nameDp">David Hussy</string>
+    <string name="user_nameView">User Name</string>
+    <string name="emailDp">Davidhussy@gmail.com</string>
+    <string name="user_nameDp">David123</string>
+    <string name="my_profile">My Profile</string>
+    <string name="emailView">Email</string>
+    <string name="age">Age</string>
+    <string name="ageView">35</string>
+    <string name="heightView">182</string>
+    <string name="weightView">82</string>
+    <string name="bmiView">24.8</string>
+    <string name="statusView">Healthy</string>
+    <string name="weight">Weight</string>
+    <string name="bmi">BMI</string>
+    <string name="status">Status</string>
+
+    //edit profile
+
+
+    //statistic
+    <string name="ststs">Statistics</string>
+  
 </resources>
