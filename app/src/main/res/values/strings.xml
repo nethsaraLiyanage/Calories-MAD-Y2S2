@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MAD-Y2S2</string>
+    
+    
     <string name="add_100cal_g_1">add 100cal g-1</string>
     <string name="add_gram">" !add gram"</string>
     <string name="_050">050</string>
